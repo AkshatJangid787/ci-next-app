@@ -1,7 +1,6 @@
 {
   "name": "@repo/db",
   "version": "1.0.0",
-  "type": "module",
   "main": "index.js",
   "exports": {
     "./client": "./src/index.ts"
@@ -14,7 +13,7 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "@prisma/client": "6.4.1",
-    "prisma": "^6.4.1"
+    "@prisma/client": "6.3.0",
+    "prisma": "^6.3.0"
   }
 }
